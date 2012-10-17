@@ -1,3 +1,9 @@
+sun-java6 (6.37-1) unstable; urgency=high
+
+  * CRITICAL UPDATE: October 2012
+
+ -- Jens Bräuer <braeuer.jens@gmail.com>  Wed, 17 Oct 2012 11:35:39 +0200
+
 sun-java6 (6.35-2) UNRELEASED; urgency=low
 
   * Remove even more obsolete code
